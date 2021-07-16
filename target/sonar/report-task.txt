@@ -1,0 +1,7 @@
+organization=derekeduardo
+projectKey=derekeduardo_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=derekeduardo_ProyectoJavaMaven
+ceTaskId=AXqxauUj97rUou7ewdUi
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqxauUj97rUou7ewdUi
